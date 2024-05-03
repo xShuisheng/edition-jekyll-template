@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: Fooocus
+category: Fooocus/Level2
 order: 2
 ---
 
